@@ -145,6 +145,13 @@
         "value": "",
         "label": "Text",
         "valueType": "string"
+      },
+      {
+        "component": "text",
+        "name": "date",
+        "value": "25 JULY 2024",
+        "label": "Date",
+        "valueType": "string"
       }
     ]
   },
